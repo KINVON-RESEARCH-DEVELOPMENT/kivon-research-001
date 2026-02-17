@@ -1,0 +1,1 @@
+python "cli boot.py" --start-main --geo --monitor-interval 5
